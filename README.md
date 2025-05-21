@@ -24,7 +24,6 @@
 <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" alt="AWS" /></a>
 <a href="https://github.com/raj5253" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" /></a>
 
-
 ---
 
 Thanks for stopping by!
