@@ -5,8 +5,7 @@
 
 ### 📫 Let's Connect!
 <!--- 🌐 [Portfolio/Website (optional)](https://your-link-here)-->
-- 💼 [LinkedIn](https://linkedin.com/in/raj5253)
-- 📂 [Resume](https://drive.google.com/file/d/1wxt81nnK0c8_YLc96GIQtdPPhaLPeP4N/view?usp=sharing)
+💼 [LinkedIn](https://linkedin.com/in/raj5253) 📂 [Resume](https://drive.google.com/file/d/1wxt81nnK0c8_YLc96GIQtdPPhaLPeP4N/view?usp=sharing)
 
 ### 🧰 Tech Stack
 
