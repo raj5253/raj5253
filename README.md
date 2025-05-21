@@ -1,32 +1,27 @@
-# 👋 Hey there, I'm Satyam Raj
+# 👋 Hi, I'm Satyam Raj
 
-🎯 **Aspiring Software Developer** | 💻 **Current ServiceNow Developer** | ⚙️ **Backend & MERN Stack Enthusiast**
-
-I'm passionate about building scalable backend systems and clean APIs. With hands-on experience in ServiceNow development and a solid foundation in the MERN stack, I'm actively seeking **Software Development** roles—especially in **Backend Development with Node.js**.
-
----
-
-### 🔧 Tech Stack
-- **Languages:** JavaScript, Java, C++, Python
-- **Backend:** Node.js, Express.js, REST APIs
-- **Frontend:** React.js, Next.js, HTML, CSS, Tailwind
-- **Database:** MongoDB, MySQL
-- **Platform:** ServiceNow (Business Rules, Script Includes, Flow Designer, ATF)
-- **Tools:** Git, GitHub, Postman, VS Code
-
----
-
-### 📌 Currently Working On:
-- Automating workflows in ServiceNow using Script Includes and Email Inbound Actions  
-- Building full-stack projects with the MERN stack  
-- Enhancing problem-solving skills through coding challenges (600+ problems solved!)
-
----
+💻 Backend Developer | ServiceNow Developer | MERN Stack Enthusiast  
+🚀 Passionate about scalable APIs, automation, and full-stack projects.
 
 ### 📫 Let's Connect!
 <!--- 🌐 [Portfolio/Website (optional)](https://your-link-here)-->
 - 💼 [LinkedIn](https://linkedin.com/in/raj5253)
 - 📂 [Resume](https://drive.google.com/file/d/1wxt81nnK0c8_YLc96GIQtdPPhaLPeP4N/view?usp=sharing)
+
+### 🧰 Tech Stack
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/ServiceNow-0C322C?logo=servicenow&logoColor=white" />
 
 ---
 
